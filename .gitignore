@@ -1,0 +1,11 @@
+# Node / Cypress
+node_modules/
+cypress-exercise/node_modules/
+
+# Cypress results (nếu không cần)
+cypress/videos/
+cypress/screenshots/
+
+# System
+.DS_Store
+Thumbs.db
